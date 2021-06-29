@@ -1,4 +1,4 @@
-package Pages;
+package pages;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

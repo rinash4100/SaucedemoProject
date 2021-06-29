@@ -1,4 +1,4 @@
-package Pages;
+package pages;
 
 /**
  * All pages inherit from this class The goal is to create a uniform framework

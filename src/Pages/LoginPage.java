@@ -1,4 +1,4 @@
-package Pages;
+package pages;
 
 import infra.WebElementData;
 import org.openqa.selenium.By;

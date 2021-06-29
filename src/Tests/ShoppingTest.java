@@ -1,4 +1,4 @@
-package Tests;
+package tests;
 
 import static org.junit.Assert.*;
 
@@ -11,12 +11,12 @@ import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import Pages.CartPage;
-import Pages.CheckoutPage;
-import Pages.LoginPage;
-import Pages.OverViewPage;
-import Pages.ProductsPage;
-import TestData.Reader;
+import pages.CartPage;
+import pages.CheckoutPage;
+import pages.LoginPage;
+import pages.OverViewPage;
+import pages.ProductsPage;
+import testData.Reader;
 
 public class ShoppingTest {
 
